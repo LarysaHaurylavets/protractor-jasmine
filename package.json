@@ -1,5 +1,5 @@
 {
-  "name": "cucumber-jasmin",
+  "name": "protractor-jasmin",
   "version": "1.0.0",
   "description": "",
   "main": "conf.js",
@@ -12,7 +12,7 @@
   "author": "Larysa Haurylavets",
   "license": "ISC",
   "devDependencies": {
-    "cucumber": "^2.3.1",
+    "protractor": "^5.1.0",
     "jasmine": "^2.7.0"
   }
 }
