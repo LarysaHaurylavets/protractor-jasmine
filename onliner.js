@@ -97,7 +97,7 @@ describe('onliner homepage', function (){
 
 	it('should count advantages of Iphone 6s', function(){	
 		var number=element.all(advantagesIphone6s).count();
-		expect(number).toBe(6);
+		expect(number).toBe(7);
 	});
 
 	it('should delete compare', function(){	
